@@ -1,0 +1,5314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2048"
+   height="2048"
+   viewBox="0 0 541.86665 541.86669"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="folder-download.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-44.021651,216.44785"
+       up_right_point="585.88803,216.44809"
+       down_left_point="0,528.6375"
+       down_right_point="541.86666,528.6375"
+       id="path-effect91727"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="true"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="-44.021651,216.44785"
+       up_right_point="585.88803,216.44809"
+       down_left_point="0,528.6375"
+       down_right_point="541.86666,528.6375"
+       id="path-effect90753"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="true"
+       overflow_perspective="false" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2390"
+       x="-0.020381071"
+       y="-0.027347315"
+       width="1.0407621"
+       height="1.0600554">
+      <feFlood
+         flood-opacity="0.478431"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2380" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite2382" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="15.6607"
+         result="blur"
+         id="feGaussianBlur2384" />
+      <feOffset
+         dx="0"
+         dy="7.36775"
+         result="offset"
+         id="feOffset2386" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite2388" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4774"
+       x="-0.033158494"
+       y="-0.044492059"
+       width="1.066317"
+       height="1.0889841">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood4764" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite4766" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="25.4788"
+         result="blur"
+         id="feGaussianBlur4768" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4770" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite4772" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686"
+       x="-0.026574803"
+       y="-0.046125826"
+       width="1.0531496"
+       height="1.1082676">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823">
+      <path
+         id="path825"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter22714"
+       x="-0.041923977"
+       y="-0.046316861"
+       width="1.083848"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood22704" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite22706" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur22708" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset22710" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite22712" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter30827"
+       x="-0.057896078"
+       y="-0.046316861"
+       width="1.1157922"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood30817" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite30819" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur30821" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset30823" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite30825" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter33777"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="depth"
+       id="filter37429"
+       x="-0.069405515"
+       y="-0.04626142"
+       width="1.138811"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter60633"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath91858">
+      <g
+         id="g91864"
+         style="fill:#ce93d8">
+        <path
+           id="path91860"
+           style="fill:#ce93d8;fill-opacity:1;stroke-width:0.264583"
+           d="M 52.916666,0 C 23.600834,0 0,23.600834 0,52.916666 v 35.811766 136.783898 23.17068 240.26698 3.87573 49.04094 H 52.916666 279.2858 488.94999 c 29.31584,0 52.91667,-21.87226 52.91667,-49.04094 V 488.94999 251.86783 88.728432 c 0,-27.168675 -23.60083,-49.040932 -52.91667,-49.040932 H 216.69375 L 177.00625,0 Z" />
+        <path
+           id="path91862"
+           style="fill:#ce93d8;fill-opacity:1;stroke-width:0.240917"
+           d="m 347.44693,216.44797 -46.55369,30.7143 H 20.978201 c -33.610468,0 -58.699332,13.96641 -56.287552,31.07015 l 13.468693,95.5166 L -3.4234808,504.35903 0,528.6375 H 52.916666 279.2858 488.94999 c 29.31592,0 54.43293,-10.75294 56.34015,-24.27847 l 22.60242,-160.29073 9.28345,-65.83588 3.79274,-26.89716 c 2.70621,-19.19175 -22.5161,-34.88729 -56.5952,-34.88729 z"
+           transform="matrix(0.99959563,0,0,0.95160856,0.24323007,26.44404)"
+           inkscape:path-effect="#path-effect91727"
+           inkscape:original-d="m 336.75256,79.374999 -39.6875,38.552281 H 52.916666 C 23.600836,117.92728 0,135.81562 0,158.03569 V 288.85541 488.52907 528.6375 H 52.916666 279.2858 488.94999 c 29.31592,0 52.91667,-17.88839 52.91667,-40.10843 v -241.59525 -88.89813 -34.7874 c 0,-24.305817 -23.60083,-43.873291 -52.91667,-43.873291 z" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823-3">
+      <path
+         id="path825-6"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686-7"
+       x="-0.026574803"
+       y="-0.03205253"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680-5" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682-6" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter22714-9"
+       x="-0.041923977"
+       y="-0.046316861"
+       width="1.083848"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood22704-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite22706-2" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur22708-7" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset22710-0" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite22712-9" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath91956">
+      <path
+         id="path91954"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter91977"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood91967" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite91969" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur91971" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset91973" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite91975" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter30827-3"
+       x="-0.057896078"
+       y="-0.046316861"
+       width="1.1157922"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood30817-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite30819-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur30821-6" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset30823-2" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite30825-6" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath91987">
+      <path
+         id="path91985"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92008"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood91998" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92000" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92002" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92004" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92006" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter33777-1"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771-9" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773-2" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775-0" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92018">
+      <path
+         id="path92016"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92039"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92029" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92031" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92033" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92035" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92037" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter37429-2"
+       x="-0.069405515"
+       y="-0.04626142"
+       width="1.138811"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423-5" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425-9" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427-2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92049">
+      <path
+         id="path92047"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92070"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92060" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92062" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92064" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92066" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92068" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92082"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92072" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92074" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92076" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92078" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92080" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92086">
+      <path
+         id="path92084"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92107"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92097" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92099" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92101" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92103" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92105" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92119"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92109" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92111" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92113" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92115" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92117" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92123">
+      <path
+         id="path92121"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92144"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92134" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92136" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92138" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92140" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92142" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92156"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92146" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92148" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92150" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92152" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92154" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92160">
+      <path
+         id="path92158"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92181"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92171" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92173" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92175" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92177" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92179" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92193"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92183" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92185" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92187" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92189" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92191" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92197">
+      <path
+         id="path92195"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92218"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92208" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92210" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92212" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92214" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92216" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter60633-2"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627-7" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629-3" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631-6" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92228">
+      <path
+         id="path92226"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92249"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92239" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92241" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92243" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92245" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92247" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92261"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92251" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92253" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur92255" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset92257" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92259" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92265">
+      <path
+         id="path92263"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92286"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92276" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92278" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92280" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92282" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92284" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92298"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92288" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92290" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur92292" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset92294" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92296" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92302">
+      <path
+         id="path92300"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92323"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92313" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92315" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92317" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92319" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92321" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92335"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92325" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92327" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92329" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92331" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92333" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92339">
+      <path
+         id="path92337"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92360"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92350" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92352" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92354" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92356" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92358" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92372"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92362" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92364" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92366" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92368" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92370" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92376">
+      <path
+         id="path92374"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92397"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92387" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92389" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92391" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92393" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92395" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter92409"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood92399" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92401" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur92403" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset92405" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92407" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92413">
+      <path
+         id="path92411"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter92434"
+       x="-0.026574804"
+       y="-0.046125825"
+       width="1.0531496"
+       height="1.1082675">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood92424" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite92426" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur92428" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset92430" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite92432" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823-3-1">
+      <path
+         id="path825-6-2"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686-7-9"
+       x="-0.026574803"
+       y="-0.03205253"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676-5-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678-3-1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680-5-9" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682-6-4" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684-2-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter37429-2-8"
+       x="-0.069405515"
+       y="-0.04626142"
+       width="1.138811"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419-3-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421-7-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423-5-0" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425-9-3" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427-2-6" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94331">
+      <path
+         id="path94329"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94352"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94342" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94344" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94346" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94348" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94350" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94364"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94354" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94356" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94358" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94360" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94362" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94368">
+      <path
+         id="path94366"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94389"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94379" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94381" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94383" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94385" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94387" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94401"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94391" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94393" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94395" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94397" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94399" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94405">
+      <path
+         id="path94403"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94426"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94416" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94418" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94420" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94422" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94424" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter60633-2-1"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623-8-0" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625-9-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627-7-3" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629-3-2" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631-6-0" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94436">
+      <path
+         id="path94434"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94457"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94447" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94449" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94451" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94453" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94455" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94469"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94459" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94461" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur94463" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset94465" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94467" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94473">
+      <path
+         id="path94471"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94494"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94484" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94486" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94488" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94490" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94492" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94506"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94496" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94498" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur94500" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset94502" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94504" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94510">
+      <path
+         id="path94508"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94531"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94521" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94523" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94525" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94527" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94529" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94543"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94533" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94535" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94537" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94539" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94541" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94547">
+      <path
+         id="path94545"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94568"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94558" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94560" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94562" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94564" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94566" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94580"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94570" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94572" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94574" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94576" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94578" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94584">
+      <path
+         id="path94582"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94605"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94595" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94597" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94599" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94601" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94603" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94617"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94607" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94609" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94611" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94613" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94615" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94621">
+      <path
+         id="path94619"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94642"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94632" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94634" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94636" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94638" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94640" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94654"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94644" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94646" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94648" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94650" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94652" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94658">
+      <path
+         id="path94656"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94679"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94669" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94671" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94673" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94675" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94677" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter94691"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood94681" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94683" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur94685" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset94687" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94689" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94695">
+      <path
+         id="path94693"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94716"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94706" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94708" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94710" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94712" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94714" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter33777-1-6"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767-8-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769-7-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771-9-5" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773-2-4" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775-0-7" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94726">
+      <path
+         id="path94724"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter94747"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood94737" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite94739" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur94741" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset94743" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite94745" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter22714-9-6"
+       x="-0.041923977"
+       y="-0.046316861"
+       width="1.083848"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood22704-1-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite22706-2-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur22708-7-9" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset22710-0-3" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite22712-9-7" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823-3-1-4">
+      <path
+         id="path825-6-2-5"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686-7-9-2"
+       x="-0.026574803"
+       y="-0.03205253"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676-5-3-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678-3-1-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680-5-9-7" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682-6-4-4" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684-2-7-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter37429-2-8-3"
+       x="-0.069405515"
+       y="-0.04626142"
+       width="1.138811"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419-3-4-0" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421-7-5-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423-5-0-8" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425-9-3-6" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427-2-6-8" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96611">
+      <path
+         id="path96609"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96632"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96622" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96624" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96626" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96628" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96630" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96644"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96634" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96636" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96638" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96640" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96642" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96648">
+      <path
+         id="path96646"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96669"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96659" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96661" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96663" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96665" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96667" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96681"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96671" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96673" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96675" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96677" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96679" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96685">
+      <path
+         id="path96683"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96706"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96696" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96698" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96700" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96702" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96704" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter60633-2-1-8"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623-8-0-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625-9-6-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627-7-3-1" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629-3-2-4" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631-6-0-9" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96716">
+      <path
+         id="path96714"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96737"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96727" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96729" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96731" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96733" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96735" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96749"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96739" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96741" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur96743" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset96745" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96747" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96753">
+      <path
+         id="path96751"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96774"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96764" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96766" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96768" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96770" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96772" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96786"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96776" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96778" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur96780" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset96782" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96784" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96790">
+      <path
+         id="path96788"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96811"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96801" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96803" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96805" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96807" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96809" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96823"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96813" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96815" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96817" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96819" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96821" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96827">
+      <path
+         id="path96825"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96848"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96838" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96840" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96842" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96844" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96846" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96860"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96850" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96852" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96854" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96856" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96858" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96864">
+      <path
+         id="path96862"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96885"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96875" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96877" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96879" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96881" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96883" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96897"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96887" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96889" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96891" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96893" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96895" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96901">
+      <path
+         id="path96899"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96922"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96912" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96914" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96916" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96918" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96920" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96934"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96924" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96926" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96928" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96930" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96932" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96938">
+      <path
+         id="path96936"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96959"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96949" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96951" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96953" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96955" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96957" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter96971"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood96961" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96963" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur96965" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset96967" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96969" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath96975">
+      <path
+         id="path96973"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter96996"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood96986" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite96988" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur96990" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset96992" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite96994" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter33777-1-6-2"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767-8-1-0" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769-7-5-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771-9-5-8" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773-2-4-9" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775-0-7-2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823-3-1-4-6">
+      <path
+         id="path825-6-2-5-6"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686-7-9-2-4"
+       x="-0.026574803"
+       y="-0.03205253"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676-5-3-5-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678-3-1-4-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680-5-9-7-0" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682-6-4-4-4" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684-2-7-4-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter37429-2-8-3-7"
+       x="-0.05947896"
+       y="-0.04626142"
+       width="1.1189579"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419-3-4-0-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421-7-5-7-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423-5-0-8-2" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425-9-3-6-7" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427-2-6-8-2" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98933">
+      <path
+         id="path98931"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter98954"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood98944" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite98946" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur98948" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset98950" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite98952" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter98966"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood98956" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite98958" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur98960" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset98962" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite98964" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98970">
+      <path
+         id="path98968"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter98991"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood98981" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite98983" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur98985" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset98987" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite98989" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter99003"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood98993" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite98995" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur98997" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset98999" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99001" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99007">
+      <path
+         id="path99005"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99028"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99018" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99020" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99022" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99024" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99026" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter60633-2-1-8-2"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623-8-0-4-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625-9-6-3-1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627-7-3-1-0" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629-3-2-4-6" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631-6-0-9-1" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99038">
+      <path
+         id="path99036"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99059"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99049" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99051" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99053" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99055" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99057" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99071"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99061" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99063" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur99065" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset99067" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99069" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99075">
+      <path
+         id="path99073"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99096"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99086" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99088" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99090" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99092" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99094" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99108"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99098" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99100" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur99102" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset99104" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99106" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99112">
+      <path
+         id="path99110"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99133"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99123" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99125" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99127" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99129" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99131" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter99145"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99135" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99137" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur99139" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset99141" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99143" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99149">
+      <path
+         id="path99147"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99170"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99160" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99162" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99164" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99166" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99168" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter99182"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99172" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99174" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur99176" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset99178" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99180" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99186">
+      <path
+         id="path99184"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99207"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99197" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99199" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99201" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99203" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99205" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter99219"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99209" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99211" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur99213" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset99215" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99217" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99223">
+      <path
+         id="path99221"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99244"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99234" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99236" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99238" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99240" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99242" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter99256"
+       x="-0.069405518"
+       y="-0.046261419"
+       width="1.138811"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood99246" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99248" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur99250" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset99252" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99254" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath99260">
+      <path
+         id="path99258"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter99281"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood99271" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite99273" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur99275" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset99277" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite99279" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter33777-1-6-2-5"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767-8-1-0-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769-7-5-6-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771-9-5-8-9" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773-2-4-9-0" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775-0-7-2-9" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath823-3-1-4-6-1">
+      <path
+         id="path825-6-2-5-6-7"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient48493">
+      <stop
+         style="stop-color:#90caf9;stop-opacity:1"
+         offset="0"
+         id="stop48489" />
+      <stop
+         style="stop-color:#42a5f5;stop-opacity:1"
+         offset="0.5"
+         id="stop54834" />
+      <stop
+         style="stop-color:#64b5f6;stop-opacity:1"
+         offset="1"
+         id="stop48491" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter44686-7-9-2-4-7"
+       x="-0.026574803"
+       y="-0.03205253"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood44676-5-3-5-9-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite44678-3-1-4-5-1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur44680-5-9-7-0-5" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset44682-6-4-4-4-9" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite44684-2-7-4-8-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter37429-2-8-3-7-7"
+       x="-0.05947896"
+       y="-0.04626142"
+       width="1.1189579"
+       height="1.1303181">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood37419-3-4-0-1-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite37421-7-5-7-7-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur37423-5-0-8-2-3" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset37425-9-3-6-7-6" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite37427-2-6-8-2-5" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101282">
+      <path
+         id="path101280"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101303"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101293" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101295" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101297" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101299" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101301" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter101315"
+       x="-0.059478961"
+       y="-0.046261419"
+       width="1.1189579"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101305" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101307" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur101309" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset101311" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101313" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101319">
+      <path
+         id="path101317"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101340"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101330" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101332" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101334" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101336" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101338" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter101352"
+       x="-0.059478961"
+       y="-0.046261419"
+       width="1.1189579"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101342" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101344" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur101346" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset101348" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101350" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101356">
+      <path
+         id="path101354"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101377"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101367" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101369" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101371" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101373" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101375" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter60633-2-1-8-2-6"
+       x="-0.084142061"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2425">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood60623-8-0-4-6-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite60625-9-6-3-1-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur60627-7-3-1-0-4" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset60629-3-2-4-6-8" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite60631-6-0-9-1-1" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101387">
+      <path
+         id="path101385"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101408"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101398" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101400" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101402" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101404" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101406" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101420"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101410" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101412" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur101414" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset101416" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101418" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101424">
+      <path
+         id="path101422"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101445"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101435" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101437" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101439" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101441" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101443" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101457"
+       x="-0.084142059"
+       y="-0.090000004"
+       width="1.1682841"
+       height="1.2424999">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101447" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101449" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur101451" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset101453" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101455" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101461">
+      <path
+         id="path101459"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101482"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101472" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101474" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101476" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101478" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101480" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter101494"
+       x="-0.059478961"
+       y="-0.046261419"
+       width="1.1189579"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101484" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101486" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur101488" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset101490" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101492" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101498">
+      <path
+         id="path101496"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101519"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101509" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101511" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101513" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101515" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101517" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter101531"
+       x="-0.059478961"
+       y="-0.046261419"
+       width="1.1189579"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101521" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101523" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur101525" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset101527" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101529" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101535">
+      <path
+         id="path101533"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101556"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101546" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101548" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101550" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101552" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101554" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="depth"
+       id="filter101568"
+       x="-0.059478961"
+       y="-0.046261419"
+       width="1.1189579"
+       height="1.130318">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood101558" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101560" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.0800000000000001"
+         result="blur"
+         id="feGaussianBlur101562" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset101564" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101566" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath101572">
+      <path
+         id="path101570"
+         style="fill:#999999;stroke-width:3.26374"
+         d="M 52.916667,2.9771875e-6 C 23.600833,2.9771875e-6 7.9999835e-8,23.600836 7.9999835e-8,52.916667 V 157.92266 488.95 541.86667 H 52.916667 383.94452 488.95 c 29.31584,0 52.91667,-23.60086 52.91667,-52.91667 V 52.916667 C 541.86667,23.600836 518.26584,2.9771875e-6 488.95,2.9771875e-6 Z" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter101593"
+       x="-0.026574804"
+       y="-0.032052532"
+       width="1.0531496"
+       height="1.0752344">
+      <feFlood
+         flood-opacity="0.43847034235668791"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood101583" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite101585" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6"
+         result="blur"
+         id="feGaussianBlur101587" />
+      <feOffset
+         dx="0"
+         dy="5"
+         result="offset"
+         id="feOffset101589" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite101591" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter33777-1-6-2-5-2"
+       x="-0.056241905"
+       y="-0.046316861"
+       width="1.1124838"
+       height="1.130429">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(83,161,222)"
+         result="flood"
+         id="feFlood33767-8-1-0-9-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite33769-7-5-6-4-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4.08489"
+         result="blur"
+         id="feGaussianBlur33771-9-5-8-9-9" />
+      <feOffset
+         dx="0"
+         dy="8"
+         result="offset"
+         id="feOffset33773-2-4-9-0-0" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite33775-0-7-2-9-8" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48493"
+       id="linearGradient103548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.26458333)"
+       x1="1024"
+       y1="0"
+       x2="1024"
+       y2="2048" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.057573086"
+     inkscape:cx="-112.89998"
+     inkscape:cy="1128.9998"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:object-nodes="true"
+     showborder="true"
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:lockguides="false"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid679" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g33801"
+       transform="matrix(0.8,0,0,0.8,54.186667,54.186666)"
+       style="stroke-width:1.25">
+      <g
+         id="g30953"
+         clip-path="url(#clipPath823-3-1-4-6-1)"
+         style="stroke-width:1.25">
+        <path
+           id="path30949"
+           style="fill:url(#linearGradient103548);fill-opacity:1;stroke-width:0.330729"
+           d="M 52.916666,0 C 23.600834,0 0,23.600834 0,52.916666 v 35.811766 136.783898 23.17068 240.26698 3.87573 49.04094 H 52.916666 279.2858 488.94999 c 29.31584,0 52.91667,-21.87226 52.91667,-49.04094 V 488.94999 251.86783 88.728432 c 0,-27.168675 -23.60083,-49.040932 -52.91667,-49.040932 H 216.69375 L 177.00625,0 Z" />
+        <path
+           id="path30951"
+           style="fill:#bbdefb;fill-opacity:1;stroke-width:0.301146;filter:url(#filter44686-7-9-2-4-7)"
+           d="m 336.75256,79.374999 -39.6875,38.552281 H 52.916666 C 23.600836,117.92728 0,135.81562 0,158.03569 V 288.85541 488.52907 528.6375 H 52.916666 279.2858 488.94999 c 29.31592,0 52.91667,-17.88839 52.91667,-40.10843 v -241.59525 -88.89813 -34.7874 c 0,-24.305817 -23.60083,-43.873291 -52.91667,-43.873291 z"
+           transform="matrix(0.99959563,0,0,0.95160856,0.24323007,26.44404)" />
+      </g>
+      <path
+         d="m 328.21704,286.99056 h -19.79711 v -62.2549 c 0,-6.84804 -5.60289,-12.45098 -12.45095,-12.45098 h -49.80394 c -6.84806,0 -12.45095,5.60294 -12.45095,12.45098 v 62.2549 h -19.79708 c -11.08138,0 -16.68432,13.44706 -8.8402,21.29118 l 57.15001,57.15 c 4.85588,4.85588 12.7,4.85588 17.55588,0 l 57.15003,-57.15 c 7.84406,-7.84412 2.36566,-21.29118 -8.71569,-21.29118 z m -144.3069,124.5098 c 0,6.84805 5.60295,12.45099 12.45098,12.45099 h 149.41179 c 6.848,0 12.45095,-5.60294 12.45095,-12.45099 0,-6.84803 -5.60295,-12.45097 -12.45095,-12.45097 H 196.36112 c -6.84803,0 -12.45098,5.60294 -12.45098,12.45097 z"
+         id="path30855"
+         style="fill:#63b5f6;fill-opacity:1;stroke-width:15.5638;filter:url(#filter33777-1-6-2-5-2)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+</svg>

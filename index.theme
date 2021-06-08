@@ -1,0 +1,60 @@
+[Icon theme]
+Name=Paper-mint
+Comment = My new theme
+Inherits = Adwaita, gnome, hicolor
+
+# Directory list
+
+Directories = apps/8x8, apps/16x16, apps/22x22, apps/24x24, apps/32x32, apps/48x48, apps/64x64, apps/256x256, apps/512x512
+
+# Applications
+
+[apps/8x8]
+Context = Applications
+Size = 8
+Type = Threshold
+
+[apps/16x16]
+Context = Applications
+Size = 16
+Type = Threshold
+
+[apps/22x22]
+Context = Applications
+Size = 22
+Type = Threshold
+
+[apps/24x24]
+Context = Applications
+Size = 24
+Type = Threshold
+
+[apps/32x32]
+Context = Applications
+Size = 32
+Type = Threshold
+
+[apps/48x48]
+Context = Applications
+Size = 48
+Type = Threshold
+
+[apps/64x64]
+Context = Applications
+Size = 64
+Type = Threshold
+
+[apps/98x98]
+Context = Applications
+Size = 98
+Type = Threshold
+
+[apps/256x256]
+Context = Applications
+Size = 256
+Type = Threshold
+
+[apps/512x512]
+Context = Applications
+Size = 512
+Type = Threshold
