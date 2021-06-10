@@ -5,13 +5,14 @@ themeName="Skeuo-icon-theme"
 
 function show_help {
 	cat << EOF
-Usage : ./install.sh [-gh]
+Usage : ./install.sh [-grh]
 Install the icon theme, locally or globally.
 Default behavior is locally (only for the current user).
 Note that if a version icons exist in the install directory, it will first be removed.
 
 -h	Display this help
 -g	Install globally (needs root privileges)
+-r	Uninstall rather than installing
 
 Exit status:
  0	if OK,
@@ -20,8 +21,10 @@ Exit status:
 EOF
 }
 
+mode="install"
+
 # Parsing options
-while getopts ":hg:" opt; do
+while getopts ":hrg:" opt; do
 	case ${opt} in
 		h )
 			# Display help and exit
@@ -31,6 +34,10 @@ while getopts ":hg:" opt; do
 		g ) 
 			# Install globally
 			themeInstallDir=/usr/share/icons
+			;;
+		r )
+			# Uninstall mode
+			mode="remove"
 			;;
 		? )
 			# Wrong usage (unused at the moment)
@@ -48,10 +55,16 @@ if [[ ! -w $themeInstallDir ]]; then
 	exit 1
 fi
 
+
+# Remove existing icons
+echo "Removing existing versions of the icons in $themeInstallDir"
+rm -rf "${themeInstallDir}/${themeName}"
+if [[ $mode = "remove" ]]; then
+	exit 0
+fi
+
+
 # Install icons
 echo "Installing icons into $themeInstallDir"
-rm -rf "${themeInstallDir}/${themeName}"
 cp -r $themeName $themeInstallDir
-
-# Exit with appropriate code
 exit 0
